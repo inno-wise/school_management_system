@@ -8,3 +8,4 @@ idna==2.8
 Pillow #9.0.1
 pytz==2019.1
 sqlparse==0.3.0
+--upgrade setuptools
